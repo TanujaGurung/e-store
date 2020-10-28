@@ -1,0 +1,16 @@
+#list{
+    margin-top: -300px;
+    width:100%;
+    height: auto;
+
+    margin-left: 40px; 
+    
+
+}
+#body{
+    background-color: #e6e6e6;
+    
+}
+#mycard{
+    display: inline-block;
+}

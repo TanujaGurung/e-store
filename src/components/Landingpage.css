@@ -1,0 +1,26 @@
+#myimg{
+    height: 600px;
+    width: 100%;
+    background-image: url(e-store2.jpg);
+    background-repeat: no-repeat;
+}
+.Landingpage{
+    color: whitesmoke;
+    font-weight: bolder;
+}
+h1{
+    padding: 100px 100px 200px 50px;
+    font-weight: bold;
+    color: #003cb3;
+    margin-left: 100px;
+}
+
+#cover{
+    height:300px;
+    width: 820px;
+    background-color: lightcoral;
+    margin-left: 300px;
+
+    margin-right: 390px;
+    text-align: center;
+}
